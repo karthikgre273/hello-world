@@ -1,2 +1,5 @@
 # hello-world
-Initial Training
+
+
+This is my first commit
+I like fajitas

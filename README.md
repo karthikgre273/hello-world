@@ -1,5 +1,5 @@
 # hello-world
 
 
-This is my first commit
-I like fajitas
+This is just a readme file and has no actual functionality
+

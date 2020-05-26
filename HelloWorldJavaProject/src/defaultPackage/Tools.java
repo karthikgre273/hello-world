@@ -7,5 +7,14 @@ public class Tools {
 		result = a + b;
 		return result;
 	}
+	
+	public int sub(int a, int b) {
+		int result;
+		if(a>b) 
+			result=a-b;
+		else
+			result=b-a;
+		return result;
+	}
 
 }
